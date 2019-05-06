@@ -9,6 +9,7 @@ export default class Tourlist extends Component {
     };
   render() {
       const {tours} = this.state;
+      console.log(this.state.tours);
    
     return (
      <section className="tourlist">

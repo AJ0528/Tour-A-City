@@ -42,12 +42,17 @@ img {
     }
     h5{
         text-transform: capitalize;
+        
         span{
             color: red;
             margin: 0.5rem;
             font-size: 1.2rem;
             cursor: pointer;
+            p{
+                font-family: 'Quattrocento Sans', sans-serif;
+            }
+
+            }
         }
     }
-}
 

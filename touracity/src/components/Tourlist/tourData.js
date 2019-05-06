@@ -73,26 +73,26 @@ export const tourData = [
       },
       {
         id: 10,
-        city: "singapore",
-        img: "./images/Singapore.jpeg",
-        name: "singapore tour",
+        city: "Bangkok, Thailand",
+        img: "./images/Bangkok.jpeg",
+        name: "Bangkok tour",
         info:
-          "Over 12 million tourists visited in both 2015 and 2016. Its remarkable local cuisine, beautiful gardens and wondrous temples make it a surefire win as a vacation destination. Given its importance as a business hub too, it's no surprise that it's the sixth most popular destination in the world for travel."
+          "Much like its food, with its tempestuous mix of sweet and salty, spicy and sour, the city itself is a busy confusion of flavors: Gawdy bars sit near richly adorned temples; pollution swirls around brand-new high-rises; creaking old homes dwell near the shadows of modern shopping malls. It's a whirlwind of a place - no wonder it was the most popular city in the world for travelers last year."
       },
       {
         id: 11,
-        city: "singapore",
-        img: "./images/Singapore.jpeg",
-        name: "singapore tour",
+        city: "Beijing, China",
+        img: "./images/Beijing.jpeg",
+        name: "Beijing, China tour",
         info:
-          "Over 12 million tourists visited in both 2015 and 2016. Its remarkable local cuisine, beautiful gardens and wondrous temples make it a surefire win as a vacation destination. Given its importance as a business hub too, it's no surprise that it's the sixth most popular destination in the world for travel."
+        "Beijing, China’s sprawling capital, has history stretching back 3 millennia. Yet it’s known as much for modern architecture as its ancient sites such as the grand Forbidden City complex, the imperial palace during the Ming and Qing dynasties"
       },
       {
         id: 8,
-        city: "singapore",
-        img: "./images/Singapore.jpeg",
-        name: "singapore tour",
+        city: " Barcelona, Spain",
+        img: "./images/Barcelona.jpg",
+        name: "barcelona, spain tour",
         info:
-          "Over 12 million tourists visited in both 2015 and 2016. Its remarkable local cuisine, beautiful gardens and wondrous temples make it a surefire win as a vacation destination. Given its importance as a business hub too, it's no surprise that it's the sixth most popular destination in the world for travel."
+          "Barcelona, the cosmopolitan capital of Spain’s Catalonia region, is known for its art and architecture. The fantastical Sagrada Família church and other modernist landmarks designed by Antoni Gaudí dot the city. Museu Picasso and Fundació Joan Miró feature modern art by their namesakes. City history museum MUHBA, includes several Roman archaeological sites."
       },
   ];

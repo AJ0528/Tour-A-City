@@ -63,4 +63,36 @@ export const tourData = [
         info:
           "Over 12 million tourists visited in both 2015 and 2016. Its remarkable local cuisine, beautiful gardens and wondrous temples make it a surefire win as a vacation destination. Given its importance as a business hub too, it's no surprise that it's the sixth most popular destination in the world for travel."
       },
+      {
+        id: 9,
+        city: "Istanbul, Turkey",
+        img: "./images/Istanbul, Turkey.jpeg",
+        name: "Istanbul Turkey tour",
+        info:
+          "Given its incredibly rich history, unbeatable food and its convenience as a point of connectivity for air travel between continents, Istanbul is understandably a popular travel destination, although recently travel warnings have been posted as a result of a series of violent attacks. Istanbul is one of three European cities to make the top 10."
+      },
+      {
+        id: 10,
+        city: "singapore",
+        img: "./images/Singapore.jpeg",
+        name: "singapore tour",
+        info:
+          "Over 12 million tourists visited in both 2015 and 2016. Its remarkable local cuisine, beautiful gardens and wondrous temples make it a surefire win as a vacation destination. Given its importance as a business hub too, it's no surprise that it's the sixth most popular destination in the world for travel."
+      },
+      {
+        id: 11,
+        city: "singapore",
+        img: "./images/Singapore.jpeg",
+        name: "singapore tour",
+        info:
+          "Over 12 million tourists visited in both 2015 and 2016. Its remarkable local cuisine, beautiful gardens and wondrous temples make it a surefire win as a vacation destination. Given its importance as a business hub too, it's no surprise that it's the sixth most popular destination in the world for travel."
+      },
+      {
+        id: 8,
+        city: "singapore",
+        img: "./images/Singapore.jpeg",
+        name: "singapore tour",
+        info:
+          "Over 12 million tourists visited in both 2015 and 2016. Its remarkable local cuisine, beautiful gardens and wondrous temples make it a surefire win as a vacation destination. Given its importance as a business hub too, it's no surprise that it's the sixth most popular destination in the world for travel."
+      },
   ];

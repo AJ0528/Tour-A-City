@@ -1,7 +1,7 @@
 @import "../../index.scss";
 
 .navbar{
-    background: $mainBlack;
+    background: rgb(245, 48, 48);
     padding: 0.5rem 1rem;
     display: grid;
     grid-template-columns: auto 1fr;
@@ -25,5 +25,5 @@
 
 }
 .active{
-    color: red;
+    color: rgb(130, 235, 45);
 }

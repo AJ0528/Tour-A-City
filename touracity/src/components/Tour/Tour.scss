@@ -33,7 +33,10 @@ img {
     padding: 1rem 0.5rem;
     h3{
         text-transform: uppercase;
-        color:green;    
+        color:green; 
+        font-family: 'Lobster Two', cursive;
+   
+
     }
     h4{
         text-transform: capitalize;
@@ -48,10 +51,6 @@ img {
             margin: 0.5rem;
             font-size: 1.2rem;
             cursor: pointer;
-            p{
-                font-family: 'Quattrocento Sans', sans-serif;
-            }
-
             }
         }
     }

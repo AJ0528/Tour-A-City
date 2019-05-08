@@ -8,7 +8,7 @@ Tour A City
 
 ### Finding more Info
 
-* Then Click in the info-carrot for more info abou the city you would like to vist!
+* Then Click on the info-carrot for more info abou the city you would like to vist!
 
 ![Screenshot (39)](https://user-images.githubusercontent.com/46428004/57349570-a86f2e80-7128-11e9-94df-099aeb7a96e4.png)
 

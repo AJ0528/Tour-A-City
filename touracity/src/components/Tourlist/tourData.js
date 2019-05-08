@@ -88,7 +88,7 @@ export const tourData = [
         "Beijing, China’s sprawling capital, has history stretching back 3 millennia. Yet it’s known as much for modern architecture as its ancient sites such as the grand Forbidden City complex, the imperial palace during the Ming and Qing dynasties"
       },
       {
-        id: 8,
+        id: 12,
         city: " Barcelona, Spain",
         img: "./images/Barcelona.jpg",
         name: "barcelona, spain tour",

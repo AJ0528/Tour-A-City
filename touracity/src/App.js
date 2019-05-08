@@ -16,15 +16,17 @@ class App extends Component {
       <BrowserRouter>
       <main> 
         <Navbar />
-      <Route path='/home' component={Home} />
-       <Route path='/about' component={About} />
+        <div>
+      <Route path='/' component={Home} exact />
+      <Route path='/about' component={About} />
+       </div>
        <Tourlist/>
             </main>
-   
+        </BrowserRouter>
  
        
       
-         </BrowserRouter>
+    
        
     
       

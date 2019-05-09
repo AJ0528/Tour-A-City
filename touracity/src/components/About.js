@@ -4,7 +4,11 @@ const About = () => {
     return (
         <div className="container">
         <h3 className="center">About</h3>
-        <p>Consequat incididunt id aliqua et commodo anim anim ad aliqua consequat irure eu consequat. Dolore sit deserunt sit nulla pariatur occaecat sit culpa id quis. Occaecat elit in Lorem adipisicing aliqua culpa esse Lorem non sint. Adipisicing culpa nostrud nisi Lorem excepteur nisi irure magna tempor aliquip sunt exercitation. Sunt commodo enim reprehenderit mollit occaecat ullamco do veniam occaecat aute et dolor culpa aliqua. In laborum sunt laborum tempor qui dolore do consectetur quis pariatur ipsum mollit anim Lorem.</p>
+        <p> Tour A City is a great little application for the adventurous traveler! Simply Choose a card from the array of the most popular and most vistied cities in the world!
+            Then Click on the info-carrot for more info about the city you would like to vist!
+            If you made a mistake and deleted a city, or you want them back to create a new list of cities simply refresh the page!
+      
+            </p>
         </div>
     )
 }
